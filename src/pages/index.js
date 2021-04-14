@@ -9,7 +9,7 @@ export default () => {
 			<Banner />
 			<TextWrapper>
 				<div>
-					<h2>GeekyHacker</h2>
+					<h2>Baharaf Agency</h2>
 					<p>One Stop for<br />
 				All your development <br />
 				And design needs</p>

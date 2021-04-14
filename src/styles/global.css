@@ -1,7 +1,7 @@
 html {
-	box-sizing: : border-box;
+	box-sizing: border-box;
 	font-size: 10px;
-	font-weight: 400,
+	font-weight: 400;
 	letter-spacing: 0.075em;
 	margin: 0;
 }
@@ -12,10 +12,11 @@ html {
 
 body {
 	font-family: "Open Sans", Helvetica, sans-serif;
-	padding: 0,
+	padding: 0;
 	margin: 0;
 }
 
 a {
 	text-decoration: none;
 }
+

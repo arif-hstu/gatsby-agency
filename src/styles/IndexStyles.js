@@ -10,13 +10,13 @@ const Banner = styled.div`
 	background-repeat: no-repeat;
 	background-position: center;
 	filter: grayscale(100%) blur(2px);
-}`
+}`;
 
 const TextWrapper = styled.div`
 	position: absolute;
 	z-index: 1;
-	left: 50%,
-	top: 50%,
+	left: 50%;
+	top: 50%;
 	transform: translate(-50%, -50%);
 	color: white;
 	div {
@@ -26,3 +26,5 @@ const TextWrapper = styled.div`
 		flex-direction: column;
 	}
 `;
+
+export { Banner, TextWrapper };
